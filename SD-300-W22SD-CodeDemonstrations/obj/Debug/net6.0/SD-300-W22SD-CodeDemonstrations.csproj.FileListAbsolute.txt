@@ -1,0 +1,15 @@
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\bin\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.exe
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\bin\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.deps.json
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\bin\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.runtimeconfig.json
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\bin\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.dll
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\bin\Debug\net6.0\ref\SD-300-W22SD-CodeDemonstrations.dll
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\bin\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.pdb
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\obj\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.csproj.AssemblyReference.cache
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\obj\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\obj\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.AssemblyInfoInputs.cache
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\obj\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.AssemblyInfo.cs
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\obj\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.csproj.CoreCompileInputs.cache
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\obj\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.dll
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\obj\Debug\net6.0\ref\SD-300-W22SD-CodeDemonstrations.dll
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\obj\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.pdb
+C:\Users\zacharie.montreuil\source\repos\SD-290-W22SD-Assignment\SD-300-W22SD-CodeDemonstrations\obj\Debug\net6.0\SD-300-W22SD-CodeDemonstrations.genruntimeconfig.cache
